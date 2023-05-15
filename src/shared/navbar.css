@@ -1,0 +1,13 @@
+a.links{
+    text-decoration: none;
+    /* width: 350px; */
+    cursor: pointer;
+    /* gap: 30px; */
+    display: inline-block;
+    padding: 20px 0px;
+margin: 0px 20px 0px 0px;
+text-align: center;
+    justify-content: center;
+    color: orangered;
+    font-weight: bold;
+}
